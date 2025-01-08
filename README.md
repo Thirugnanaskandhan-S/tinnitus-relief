@@ -1,16 +1,12 @@
-# flutter_application_1
+Tinnitus Relief App
+Welcome to the Tinnitus Relief App, a Flutter-based mobile application designed to help individuals manage tinnitus by providing soothing and relaxing sounds to ease the discomfort.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Relaxing Soundscapes: A curated collection of calming sounds, such as white noise, ocean waves, rain, and more.
+Customizable Playback: Adjust volume and duration to match personal preferences.
+Easy-to-Use Interface: Intuitive and user-friendly design for seamless navigation.
+Offline Support: Download and play sounds even without an internet connection.
+Personalized Recommendations: Tailored sound suggestions based on user preferences (coming soon!).
+Technology Stack
+Frontend: Flutter
+Sound Files: Preloaded high-quality audio files for offline playback
